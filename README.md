@@ -1,6 +1,6 @@
 # Jimmy Butler's Career so far
 
-## Analysis of South Korean professional foobtball player Heung Min Son since the start of his career using Machine Learning and Data Visualization
+## Analysis of NBA All-Star Jimmy Butler since the start of his career using Machine Learning and Data Visualization
 
 >### Context
 
