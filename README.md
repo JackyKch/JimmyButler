@@ -1,6 +1,6 @@
 # Jimmy Butler's Career so far
 
-## Analysis of NBA All-Star Jimmy Butler since the start of his career using Machine Learning and Data Visualization
+## Analysis of NBA All-Star Jimmy Butler since the start of his career using Data Visualization
 
 >### Context
 
@@ -11,9 +11,9 @@ Jimmy went through a lot since his debut at Marquette University, to his first N
 >### Objective
 
 With this project, we are trying to understand Jimmy Butler's journey but also his story and see if we can explain this thanks to different data. 
-To do so, we will be using various Machine Learning algorithms and Data Visualization to present the results of this study. 
+To do so, we will be using Data Visualization to present the results of this study. 
 Finally, to conclude this project, I decided to write an article in which I present the results found and my analysis on this project. 
 
-You can find the article by clicking [here](https://jackykch.github.io/MyPortfolio/homepage.html).
+You can find the article by clicking [here](https://jackykch.github.io/MyPortfolio/articles/jimmybutler.html).
 
 ![alt text](https://github.com/JackyKch/JimmyButler/blob/master/assets/readme_image.jpeg)
